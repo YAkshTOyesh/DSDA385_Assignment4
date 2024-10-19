@@ -5,7 +5,7 @@ This repository includes three Jupyter Notebooks that demonstrate how to load an
 [Run this Notebook in Google Colab](https://colab.research.google.com/github/your-repo/Yaksh_MLP_GTSRB.ipynb)
 
 ## GTSRB
-[Run this Notebook in Google Colab](https://colab.research.google.com/github/your-repo/Yaksh_MLP_Kaggle_House_Prices (2).ipynb)
+[Run this Notebook in Google Colab](https://colab.research.google.com/github/your-repo/Yaksh_MLP_Kaggle_House_Prices(2).ipynb)
 
 ## Kaggle_House_Prices
 [Run this Notebook in Google Colab](https://colab.research.google.com/github/your-repo/MLP_MNIST.ipynb)
